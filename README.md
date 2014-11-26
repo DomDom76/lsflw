@@ -40,3 +40,4 @@ jeu de stratégie temps réel multi-joueurs
     ** Unité défensive ** : unité fixe, propre à une cellule et utilisée en cas de prise
     ** Capacité ** : nombre max. d'unités que peut accueillir une cellule
     ** Cadence de production ** : vitesse à laquelle sont créées les unités dans une cellule
+♥
